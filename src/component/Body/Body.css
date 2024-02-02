@@ -1,0 +1,55 @@
+.body{
+    display: flex;
+    padding: 10px 20px;
+}
+/* main section start */
+.main{
+    margin-right: 5px;
+    padding-right: 10px;
+    width: 100%;
+}
+.main h3{
+    padding: 10px 0px;
+}
+.main h6{
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 11px;
+}
+.main h6 span{
+    color:rgb(41, 168, 123);
+}
+.main p{
+    padding: 5px 0px;
+    font-size:13px;
+}
+.main p span.dark{
+    font-weight: bold;
+}
+.main p.lb{
+    border-left: 2px solid green;
+    margin-left: 50px;
+    padding-left: 5px;
+}
+.main ul{
+    margin-left: 50px;
+}
+/* main section end */
+/* aside section start */
+.aside{
+    width: 300px;
+    height: 380px;
+    background: rgb(229, 238, 225);
+    padding: 20px 40px;
+}
+.aside h5{
+    padding: 10px 0px;
+
+}
+.aside ul li{
+    /* padding: 2px 0px; */
+    list-style: none;
+}
+/* aside section end */
+
+

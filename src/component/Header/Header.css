@@ -1,0 +1,13 @@
+.header{
+    color:#fff;
+    background: rgb(9, 129, 9);
+    display: flex;
+    padding-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* .header h2{
+    font-family: 'Times New Roman', Times, serif;
+} */
+.header p{
+    padding-top: 18px !important;
+}

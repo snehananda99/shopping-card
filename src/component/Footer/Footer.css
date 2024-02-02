@@ -1,0 +1,19 @@
+.footer{
+    background: rgb(1, 36, 1);
+    display: flex;
+    color: #fff;
+    padding: 20px 60px;
+}
+.footer h5{
+    color:yellowgreen;
+    padding: 10px 0px;
+}
+.footer div{
+    padding: 0px 50px;
+}
+.footer div ul li{
+    list-style: none;
+}
+ .right{
+    margin-left: 600px;
+}
